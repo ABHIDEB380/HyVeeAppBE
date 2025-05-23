@@ -1,0 +1,6 @@
+@HyVeeApp_HostAddress = http://localhost:5239
+
+GET {{HyVeeApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
